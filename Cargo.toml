@@ -9,6 +9,7 @@ license = "BSD-3-Clause"
 categories = ["science"]
 readme = "README.md"
 keywords = ["Numeric", "Armadillo", "Science", "LinearAlgebra"]
+exclude = ["src/bin"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
